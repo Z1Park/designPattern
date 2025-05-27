@@ -1,4 +1,4 @@
-package src.chapter3_solid;
+package src.chapter3_solid.fuel_tank_monitoring;
 
 public interface SignalTransmitter {
 
