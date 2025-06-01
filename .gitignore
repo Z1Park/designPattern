@@ -1,0 +1,17 @@
+/out/production/designPattern/.idea/.gitignore
+/out/production/designPattern/src/chapter5_strategy_pattern/robot/Atom.class
+/out/production/designPattern/src/chapter3_solid/time_reminder/Calender.class
+/out/production/designPattern/src/chapter5_strategy_pattern/robot/Client.class
+/out/production/designPattern/src/chapter3_solid/fuel_tank_monitoring/FuelTankChecker.class
+/out/production/designPattern/src/chapter3_solid/fuel_tank_monitoring/FuelTankMonitoring.class
+/out/production/designPattern/.idea/misc.xml
+/out/production/designPattern/.idea/modules.xml
+/out/production/designPattern/src/chapter3_solid/time_reminder/MP3.class
+/out/production/designPattern/README.md
+/out/production/designPattern/src/chapter5_strategy_pattern/robot/Robot.class
+/out/production/designPattern/src/chapter3_solid/fuel_tank_monitoring/SignalTransmitter.class
+/out/production/designPattern/src/chapter3_solid/time_reminder/StubCalender.class
+/out/production/designPattern/src/chapter5_strategy_pattern/robot/TaekwonV.class
+/out/production/designPattern/src/chapter3_solid/time_reminder/TimeReminder.class
+/out/production/designPattern/src/chapter3_solid/time_reminder/TimeReminderTest.class
+/out/production/designPattern/.idea/vcs.xml
