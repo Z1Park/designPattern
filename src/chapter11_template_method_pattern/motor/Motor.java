@@ -1,4 +1,4 @@
-package src.chpater11_template_method_pattern.motor;
+package src.chapter11_template_method_pattern.motor;
 
 public abstract class Motor {
 
